@@ -222,9 +222,7 @@ There are two ways to install testng.
 
 * git init (hidden file will be created)
 
-* git config –global user.name “Iqra”
-
-* git config –global user.email “iqra.habib@pakeventures.com”
+* git config –global user.name “Zarnab”
 
 * git remote add origin “Github URL”
 
