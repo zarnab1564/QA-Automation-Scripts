@@ -1,0 +1,21 @@
+{
+	"EstoreOrder": 
+	[
+		{
+			"TestNumber": "1",
+			"Login": "Yes",
+			"Category": "Car Interior",
+			"Location":
+			{
+				"City": "Lahore",
+				"CityArea": "Gulberg"
+			},
+			"Address": "House test Street Automation",
+			"Landmark": "Landmark",
+			"ShopNow": "Sold By PakWheels",
+			"Discount":"DiscountE",
+			"RemoveItem":"Yes",
+			"PaymentMethod":"Cash on Delivery"
+		}
+	]
+}

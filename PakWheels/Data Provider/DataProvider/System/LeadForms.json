@@ -1,0 +1,540 @@
+{ 
+	"SellItForMe": 
+	[
+		{
+			"TestNumber": "2",
+			"Login": "Yes",
+			"VerifyLanding":"Yes",
+			"CarInformation":
+			{
+				"Year": "2022",
+				"MakeModel": "Alto",
+				"Version": "VX"
+			},	
+			"Location":
+			{
+				"City": "Lahore",
+				"CityArea": "Abbot Road"
+			},
+			"RegisteredIn": "Punjab",
+			"Assembly": "Local",
+			"Address": "2nd Floor PakWheels Head Office Gulberg Lahore",	
+			"PaymentMethod": "JazzCash Mobile Account"
+		}
+	],
+	
+	"InspectionRequest": 
+	[
+		{			
+			"TestNumber": "1",
+			"VerifyLanding":"Yes",
+			"Login": "No",
+			"Year": "2022",
+			"Location":
+			{
+				"City": "Lahore",
+				"CityArea": "Canal Garden"
+			},	
+			"CarInformation":
+			{
+				"Year": "2022",
+				"MakeModel": "Alto",
+				"Version": "VXR"
+			},
+			"Address": "2nd Floor PakWheels Head Office Gulberg Lahore"
+		}
+	],
+	
+	"AuctionSheet": 
+	[
+		{
+			"TestNumber": "1",
+			"Login": "No",
+			"Chassis": "test",
+			"PaymentMethod": "JazzCash Mobile Account"		
+		},
+		
+		{
+			"TestNumber": "2",
+			"Login": "Yes",
+			"Chassis": "RU3-1041850",
+			"PaymentMethod": "JazzCash Mobile Account"		 	 	 		
+		}
+	
+	],
+	
+	"Insurance": 
+	[
+		{
+			"TestNumber": "1",
+			"Login": "No",
+			"Navigation":"Product",
+			"Flow":"Yes",
+			"CarInformation":
+			{
+				"Year": "2021",
+				"Make":"Suzuki",
+				"Model": "Alto",
+				"Version": "VXR"
+			},	
+			"Price": "1500000",
+			"BankDetails":
+			{
+				"BankName": "EFU General Insurance Ltd",
+				"AddTracker": "Yes"
+			},
+			"City": "Lahore",
+			"CNIC": "45202-1234120-9",
+			"Registration":
+			{
+				"RegistrationStatus": "Registered",
+				"RegisterationNumber": "Request for Insuracne from Product Page with logout User"
+			}
+		},
+		{
+			"TestNumber": "2",
+			"Login": "Yes",
+			"Navigation":"Product",
+			"Flow":"No",
+			"CarInformation":
+			{
+				"Year": "2010",
+				"Make":"Suzuki",
+				"Model": "Cultus",
+				"Version": "VXRi"
+			},	
+			"Price": "2400000",
+			"BankDetails":
+			{
+				"BankName": "EFU General Insurance Ltd",
+				"AddTracker": "Yes"
+			},
+			"City": "Lahore",
+			"CNIC": "45202-1234120-9",
+			"Registration":
+			{
+				"RegistrationStatus": "Unregistered",
+				"RegisterationNumber": "Text123"
+			}
+		},
+		{
+			"TestNumber": "3",
+			"Login": "No",
+			"Navigation":"NewCarModel",	
+			"Flow":"View Plan",
+			"CarInformation":
+			{
+				"Make": "Toyota",
+				"Year": "",
+	 			"Model": "Toyota Corolla",
+	 			"Version": ""
+			},
+			"Price": "2400000",
+			"BankDetails":
+			{
+				"BankName": "EFU General Insurance Ltd",
+				"AddTracker": "Yes"
+			},
+			"City": "Lahore",
+			"CNIC": "45202-1234120-9",
+			"Registration":
+			{
+				"RegistrationStatus": "Unregistered",
+				"RegisterationNumber": "Text123"
+			}
+		},
+		{
+			"TestNumber": "4",
+			"Login": "Yes",
+			"Navigation":"NewCarModel",	
+			"Flow":"Show More Plans",
+			"CarInformation":
+			{
+				"Make": "Toyota",
+				"Year": "",
+	 			"Model": "Toyota Corolla",
+	 			"Version": ""
+			},
+			"Price": "",
+			"BankDetails":
+			{
+				"BankName": "Askari General Insurance",
+				"AddTracker": "No"
+			},
+			"City": "Lahore",
+			"CNIC": "45202-1234120-9",
+			"Registration":
+			{
+				"RegistrationStatus": "Registered",
+				"RegisterationNumber": "Show More Plans from Model Detail Askari Bank"
+			}
+		},
+
+		{
+			"TestNumber": "5",
+			"Login": "Yes",
+			"Navigation":"UsedCarAd",	
+			"Flow":"View Plan",
+			"CarInformation":
+			{
+				"Make": "Suzuki",
+				"Year": "",
+	 			"Model": "Cultus",
+	 			"Version": "VXL"
+			},
+			"Price": "3200000",
+			"BankDetails":
+			{
+				"BankName": "EFU General Insurance Ltd",
+				"AddTracker": "Yes"
+			},
+			"City": "Lahore",
+			"CNIC": "45202-1234120-9",
+			"Registration":
+			{
+				"RegistrationStatus": "Unregistered",
+				"RegisterationNumber": "Text123"
+			}
+		},
+		{
+			"TestNumber": "6",
+			"Login": "Yes",
+			"Navigation":"UsedCarAd",	
+			"Flow":"Show More Plans",
+			"CarInformation":
+			{
+				"Make": "Suzuki",
+				"Year": "",
+	 			"Model": "Cultus",
+	 			"Version": "VXL"
+			},
+			"Price": "3700000",
+			"BankDetails":
+			{
+				"BankName": "Askari General Insurance",
+				"AddTracker": "No"
+			},
+			"City": "Lahore",
+			"CNIC": "45202-1234120-9",
+			"Registration":
+			{
+				"RegistrationStatus": "Registered",
+				"RegisterationNumber": "Show More Plans from Used Car Detail Askari Bank"
+			}
+		},
+		{
+			"TestNumber": "7",
+			"Login": "No",
+			"Navigation":"NewCarVersion",	
+			"Flow":"View Plan",
+			"CarInformation":
+			{
+				"Make": "Toyota",
+				"Year": "",
+	 			"Model": "Toyota Corolla",
+	 			"Version": "XLi Automatic"
+			},
+			"Price": "2400000",
+			"BankDetails":
+			{
+				"BankName": "EFU General Insurance Ltd",
+				"AddTracker": "Yes"
+			},
+			"City": "Lahore",
+			"CNIC": "45202-1234120-9",
+			"Registration":
+			{
+				"RegistrationStatus": "Unregistered",
+				"RegisterationNumber": "Text123"
+			}
+		},
+		{
+			"TestNumber": "8",
+			"Login": "Yes",
+			"Navigation":"NewCarVersion",	
+			"Flow":"Show More Plans",
+			"CarInformation":
+			{
+				"Make": "Toyota",
+				"Year": "",
+	 			"Model": "Toyota Corolla",
+	 			"Version": "XLi VVTi"
+			},
+			"Price": "",
+			"BankDetails":
+			{
+				"BankName": "Askari General Insurance",
+				"AddTracker": "No"
+			},
+			"City": "Lahore",
+			"CNIC": "45202-1234120-9",
+			"Registration":
+			{
+				"RegistrationStatus": "Registered",
+				"RegisterationNumber": "Show More Plans from Model Detail Askari Bank"
+			}
+		}
+	],
+	
+	"Finance": 
+	[
+		{
+			"TestNumber": "1",
+			"Login": "No",
+			"CarStatus": "New",
+			"City": "Lahore",
+			"ModelYear": "",
+			"MakeModel": "Alto",
+			"Version": "VXR",
+			"Price": "",
+			"Tenure": "4 Year",
+			"DownPayment": "40%",
+			"BankName": "MCB Car4U",
+			"Age": "18",
+			"CNIC": "45202-1234120-9",
+			"City2": "Lahore",
+			"CityArea": "Aftab Garden",
+			"Address": "Street Test House Automation",
+			"BestTimeToCall": "Office Hours",
+			"SourceOfIncome": "Salaried",
+			"MonthlyIncome": "36000 - 55000",
+			"Bank": "Askari Bank Limited",
+			"TaxFilerStatus": "Filer",
+			"CreditCardLoan": "Yes",
+			"IntendToUseVehicle": "Personal",
+			"Acquire": "Next 2 weeks"			
+		},
+			
+		{
+			"TestNumber": "2",
+			"Login": "Yes",
+			"CarStatus": "New",
+			"City": "Islamabad",
+			"ModelYear": "",
+			"MakeModel": "Civic",
+			"Version": "Oriel 1.8 i-VTEC CVT",
+			"Price": "",
+			"Tenure": "3 Year",
+			"DownPayment": "45%",
+			"BankName": "HBL CarLoan ",
+			"Age": "40",
+			"CNIC": "35202-2106120-5",
+			"City2": "Islamabad",
+			"CityArea": "AGHOSH",
+			"Address": "Street Test House Automation",
+			"BestTimeToCall": "Before Mid-day",
+			"SourceOfIncome": "Self-Employed",
+			"MonthlyIncome": "Above 55000",
+			"Bank": "Faysal Bank Limited",
+			"TaxFilerStatus": "Non-Filer",
+			"CreditCardLoan": "No",
+			"IntendToUseVehicle": "Business",
+			"Acquire": "Next month"	
+		 		
+		},
+		
+		{
+			"TestNumber": "3",
+			"Login": "No",
+			"CarStatus": "Used",
+			"City": "Lahore",
+			"ModelYear": "2020",	
+			"MakeModel": "Alto",
+			"Version": "VXR",
+			"Price": "1500000",
+			"Tenure": "4 Year",
+			"DownPayment": "40%",
+			"BankName": "UBL Drive    ",
+			"Age": "18",
+			"CNIC": "45202-1234120-9",
+			"City2": "Lahore",
+			"CityArea": "Aftab Garden",
+			"Address": "Street Test House Automation",
+			"BestTimeToCall": "Office Hours",
+			"SourceOfIncome": "Salaried",
+			"MonthlyIncome": "Above 55000",
+			"Bank": "Askari Bank Limited",
+			"TaxFilerStatus": "Filer",
+			"CreditCardLoan": "Yes",
+			"IntendToUseVehicle": "Personal",
+			"Acquire": "Next 2 weeks"
+			
+		},
+		
+		{
+			"TestNumber": "4",
+			"Login": "Yes",
+			"CarStatus": "Used",
+			"City": "",
+			"ModelYear": "2018",	
+			"MakeModel": "Civic",
+			"Version": "Oriel 1.8 i-VTEC CVT",
+			"Price": "2400000",
+			"Tenure": "3 Year",
+			"DownPayment": "45%",
+			"BankName": "DIB Auto Finance ",
+			"Age": "40",
+			"CNIC": "35202-2106120-5",
+			"City2": "Islamabad",
+			"CityArea": "AGHOSH",
+			"Address": "Street Test House Automation",
+			"BestTimeToCall": "Before Mid-day",
+			"SourceOfIncome": "Self-Employed",
+			"MonthlyIncome": "36000 - 55000",
+			"Bank": "Faysal Bank Limited",
+			"TaxFilerStatus": "Non-Filer",
+			"CreditCardLoan": "No",
+			"IntendToUseVehicle": "Business",
+			"Acquire": "Next month"	
+			 		
+		}
+	
+	],
+	"PartnerWorkshop": 
+	[		
+		{
+		 "TestNumber": "1",
+		 "Login": "Yes",
+		 "Location":
+		 {
+			"City": "Lahore",
+			"CityArea": "Abbot Road"
+		 },	
+		 "CarInformation":
+		 {
+			"Year": "2021",
+			"Make":"Suzuki",
+			"MakeModel": "Alto",
+			"Version": "VXR"
+		 },
+		 "ServiceIssue": "Denting & painting,Mechanical repair,Periodic maintenance,Other repair services",
+		 "Message":"Other Repair Services Text System",
+		 "Notes": "Need Services urgently in 2 weeks",
+		 "VerifySummary":"Yes"
+		
+        },
+		{
+			"TestNumber": "2",
+			"Login": "Yes",
+			"ServiceIssue":"Denting & painting,Periodic maintenance,Other repair services",
+			"Message":"",
+			"Notes": "Need Services urgently in 2 weeks",
+			"Location":
+			{
+			   "City": "Lahore",
+			   "CityArea": ""
+			},	
+			"CarInformation":
+			{
+			   "Year": "2012",
+			   "Make":"Honda",
+			   "MakeModel":"City",
+			   "Version": "Aspire 1.5 i-VTEC"
+			},
+			"VerifySummary":"No"			
+		},
+		{
+			"TestNumber": "3",
+			"Login": "Yes",
+			"ServiceIssue":"Denting & painting,Mechanical repair,Engine oil & filter,Electrical repair,Other repair services,Periodic maintenance",
+			"Message":"Message for Other Services selected in between issues",
+			"Notes": "",
+			"Location":
+			{
+				"City": "Karachi",
+				"CityArea": "Bahria Town Karachi"
+			},	
+			"CarInformation":
+			{
+			   "Year": "2012",
+			   "Make":"Honda",
+			   "MakeModel":"City",
+			   "Version": "Aspire 1.5 i-VTEC"
+			},
+			"VerifySummary":"No"
+		},
+		{
+			"TestNumber": "4",
+			"Login": "No",
+			"ServiceIssue":"Denting & painting,Mechanical repair,Engine oil & filter,Other repair services,Periodic maintenance",
+			"Message":"Logout User",
+			"Notes": "Log Out Case",	
+			"Location":
+			{
+				"City": "Islamabad",
+				"CityArea": "Blue Area"	
+			},
+			"CarInformation":
+			{
+			   "Year": "2015",
+			   "Make":"Toyota",
+			   "MakeModel":"Vitz",
+			   "Version": "U 1.5"
+			},
+			"VerifySummary":"Yes"		
+		}
+
+	],
+	"CarRegistration": 
+	[	
+		{
+			"TestNumber": "1",
+			"Login": "No",
+			"CarInformation":
+			{
+			   "Year": "2015",
+			   "Make":"Toyota",
+			   "MakeModel":"Vitz",
+			   "Version": "U 1.5"
+			},
+			"Filer": "Yes",
+			"RegistrationCity":"Punjab",
+			"VerifySummary":"Yes"			
+		},	
+		{
+			"TestNumber": "2",
+			"Login": "Yes",
+			"CarInformation":
+			{
+			   "Year": "2012",
+			   "Make":"Honda",
+			   "MakeModel":"City",
+			   "Version": "Aspire 1.5 i-VTEC"
+			},
+			"Filer": "No",
+			"RegistrationCity":"KPK",
+			"VerifySummary":"No"			
+		}
+	],
+	"OwnerShipTransfer":
+	[
+		{
+			"TestNumber": "1",
+			"Login": "No",
+			"CarInformation":
+			{
+			   "Year": "2015",
+			   "Make":"Toyota",
+			   "MakeModel":"Vitz",
+			   "Version": "U 1.5"
+			},
+			"Filer": "Yes",
+			"RegistrationCity":"Punjab",
+			"VerifySummary":"Yes"			
+		},	
+		{
+			"TestNumber": "2",
+			"Login": "Yes",
+			"CarInformation":
+			{
+			   "Year": "2012",
+			   "Make":"Honda",
+			   "MakeModel":"City",
+			   "Version": "Aspire 1.5 i-VTEC"
+			},
+			"Filer": "No",
+			"RegistrationCity":"KPK",
+			"VerifySummary":"No"			
+		}
+	]
+}

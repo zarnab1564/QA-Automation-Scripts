@@ -1,0 +1,187 @@
+{ 
+	"CarAdPost": 
+	[
+		{
+			"TestNumber": "1",
+			"AdType": "Car",
+			"Login": "Yes",
+			"NumberOfImages": "2",
+			"Location":
+			{
+				"City": "Lahore",
+				"CityArea": "Abid Market"
+			},
+			"CarInformation":
+			{
+				"Year": "2020",
+				"Make": "Suzuki",
+				"Model": "Wagon R",
+				"FuelType": "Petrol",
+				"Transmission": "Manual",
+				"Version": "VXL"
+			},		
+			"RegisteredIn": "Lahore",
+			"Color": "Black",
+			"Mileage": "1000",
+			"Price": "1500000",
+			"Suggestion":
+			{
+				"Description": "Test By Appium",
+				"NumberOfSuggestions": "2"
+			},
+			"AdditionalInfo":
+			{
+				"FuelType": "Petrol",
+				"Capacity": "660",	
+				"Transmission": "Manual",
+				"Assembly": "Imported",
+				"NumberOfFeatures": "3"
+			},		
+			"AllowWhatsApp": "Yes",	
+			"ActivateAd":
+			{	
+				"ProductName": "Normal Car Ad",
+				"ActivateDiscountCode": "Universal",
+				"PaymentMethod": "JazzCash Mobile Account"
+			},
+			"FeatureAd":
+			{	
+				"FeatureBundle": "14 Days",
+				"FeatureDiscountCode": "Universal",
+				"PaymentMethod": "JazzCash Mobile Account"
+			},
+			"BoostAd":
+			{
+				"BoostBundle": "10 Pack Boost",
+				"BoostDiscountCode": "Universal",
+				"PaymentMethod": "JazzCash Mobile Account"
+			},
+			"Edit":
+			{
+				"Location":
+				{
+					"City": "Lahore",
+					"CityArea": "Abbot Road"
+				},
+				"Version": "FA",
+				"RegisteredIn": "Punjab",
+				"Color": "Silver"
+			},
+			"AuctionSheet":
+			{
+				"ChassisNumber": "RU3-1041850",
+				"AuctionDiscountCode": "Universal",
+				"PaymentMethod": "JazzCash Mobile Account"
+			},
+			"SIFM":
+			{
+				"Location":
+				{
+					"CityArea": "Abid Market"
+				},
+				"Address": "2nd Floor PakWheels Head Office Gulberg Lahore",	
+				"PaymentMethod": "JazzCash Mobile Account"
+			},
+			"Inspection":
+			{
+				"Location":
+				{
+					"City": "Lahore",
+					"CityArea": "Abid Market"
+				},
+				"Address": "2nd Floor PakWheels Head Office Gulberg Lahore",	
+				"PaymentMethod": "JazzCash Mobile Account"
+			},
+			"RemoveAd":
+			{
+				"RemoveReason": "I have sold my Car",
+				"SoldVia": "Sold via PakWheels.com",
+				"Price": "1500000"
+			}
+		}
+	],
+	
+	"BikeAdPost": 
+	[
+		{
+			"TestNumber": "1",
+			"AdType": "Bike",
+			"Login": "Yes",
+			"NumberOfImages": "2",
+			"Location":
+			{
+				"City": "Lahore",
+				"CityArea": "Abid Market"
+			},
+			"BikeInformation":
+			{
+				"Year": "2022",
+				"Make": "Honda",
+				"MakeModel": "CD 70"
+			},
+			"RegisteredIn": "Lahore",
+			"Price": "750000",
+			"Mileage": "1000",
+			"EngineType": "2-stroke",		
+			"Description": "Test By Appium",
+			"NumberOfFeatures": "3",
+			"AllowWhatsApp": "Yes",
+			"ActivateAd":
+			{	
+				"ProductName": "Normal Bike Ad",
+				"ActivateDiscountCode": "Universal",
+				"PaymentMethod": "JazzCash Mobile Account"
+			},
+			"FeatureAd":
+			{	
+				"FeatureBundle": "1 Week Bike Feature ",
+				"FeatureDiscountCode": "Universal",
+				"PaymentMethod": "JazzCash Mobile Account"
+			},
+			"BoostAd":
+			{
+				"BoostBundle": "10 Pack Boost",
+				"BoostDiscountCode": "Universal",
+				"PaymentMethod": "JazzCash Mobile Account"
+			},
+			"RemoveAd":
+			{
+				"RemoveReason": "I have sold my Bike",
+				"SoldVia": "Sold via PakWheels.com",
+				"Price": "1500000"
+			}
+		}
+	],
+	
+	"AccessoryAdPost": 
+	[
+		{
+			"TestNumber": "1",
+			"AdType": "Accessory",
+			"Login": "Yes",
+			"NumberOfImages": "2",
+			"Location":
+			{
+				"City": "Lahore",
+				"CityArea": "Abid Market"
+			},
+			"Category": "Amplifiers",
+			"Title": "Amplifiers",
+			"Price": "500",
+			"Description": "Test By Appium",
+			"AllowWhatsApp": "Yes",
+			"ActivateAd":
+			{	
+				"ProductName": "Normal Accessory Ad",
+				"ActivateDiscountCode": "Universal",
+				"PaymentMethod": "JazzCash Mobile Account"
+			},
+			"RemoveAd":
+			{
+				"RemoveReason": "I have sold my Auto Part/Accessory",
+				"SoldVia": "Sold via PakWheels.com",
+				"Price": "1000"
+			}
+		}
+	]
+}

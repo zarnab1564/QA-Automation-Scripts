@@ -1,0 +1,205 @@
+{ 
+	"SellItForMe": 
+	[
+		{
+			"TestNumber": "1",
+			"Login": "No",
+			"VerifyLanding":"No",
+			"CarInformation":
+			{
+				"Year": "2022",
+				"MakeModel": "Alto",
+				"Version": "VXR"
+			},	
+			"Location":
+			{
+				"City": "Lahore",
+				"CityArea": "Canal Garden"
+			},
+			"RegisteredIn": "Punjab",
+			"Assembly": "Local",
+			"Address": "2nd Floor PakWheels Head Office Gulberg Lahore",	
+			"PaymentMethod": "JazzCash Mobile Account"
+		}
+	],
+	
+	"InspectionRequest": 
+	[
+		{
+			"TestNumber": "1",
+			"Login": "No",
+			"Location":
+			{
+				"City": "Lahore",
+				"CityArea": "Canal Garden"
+			},	
+			"CarInformation":
+			{
+				"Year": "2022",
+				"MakeModel": "Alto",
+				"Version": "VXR"
+			},	
+			"Address": "2nd Floor PakWheels Head Office Gulberg Lahore",
+			"PaymentMethod": "JazzCash Mobile Account"
+		}
+	],
+	
+	"AuctionSheet": 
+	[
+		{
+			"TestNumber": "1",
+			"Login": "No",
+			"Chassis": "test",
+			"PaymentMethod": "JazzCash Mobile Account"	
+		}
+	],
+	
+	"Insurance": 
+	[
+		{
+			"TestNumber": "1",
+			"Login": "No",
+			"Navigation":"Product",
+			"Flow":"",
+			"CarInformation":
+			{
+				"Year": "2021",
+				"Model": "Alto",
+				"Version": "VXR"
+			},	
+			"Price": "1500000",
+			"BankDetails":
+			{
+				"BankName": "EFU General Insurance Ltd",
+				"AddTracker": "Yes"
+			},
+			"City": "Lahore",
+			"CNIC": "45202-1234120-9",
+			"Registration":
+			{
+				"RegistrationStatus": "Registered",
+				"RegisterationNumber": "Text123"
+			}
+		}	
+	],
+	
+	"Finance": 
+	[
+	{
+			"TestNumber": "1",
+			"Login": "Yes",
+			"CarStatus": "New",	
+			"CarInformation":
+			{
+				"MakeModel": "Alto",
+				"Version": "VXR"
+			},		
+			"Tenure": "4 Year",
+			"DownPayment": "40%",
+			"BankName": "UBL Drive    ",
+			"CNIC": "45202-1234120-9",
+			"Email": "testing.redmi9c@gmail.com",
+			"Location":
+			{
+				"City": "Lahore",
+				"CityArea": "Aftab Garden"
+			},
+			"FinancialInformation":
+			{
+				"SourceOfIncome": "Salaried",
+				"MonthlyIncome": "Above 80,000",
+				"Bank": "Askari Bank Limited",
+				"CreditCardLoan": "Yes",
+				"IntendToAcquire": "Next 2 weeks"	
+			}
+					
+		},	
+
+		{
+			"TestNumber": "2",
+			"Login": "Yes",
+			"CarStatus": "Used",
+			"Location":
+			{
+				"City": "Lahore",
+				"CityArea": "Aftab Garden"
+			},
+			"CarInformation":
+			{
+				"Year": "2020",	
+				"MakeModel": "Alto",
+				"Version": "VXR"
+			},			
+			"Price": "1500000",
+			"Tenure": "4 Year",
+			"DownPayment": "40%",
+			"BankName": "UBL Drive    ",
+			"CNIC": "45202-1234120-9",
+			"Email": "testing.redmi9c@gmail.com",
+			"Address": "Street Test House Automation",
+			"FinancialInformation":
+			{
+				"SourceOfIncome": "Salaried",
+				"MonthlyIncome": "Above 80,000",
+				"Bank": "Askari Bank Limited",
+				"CreditCardLoan": "Yes",
+				"IntendToAcquire": "Next 2 weeks"	
+			}		
+		}	
+	],
+	
+	"CarRegistration": 
+	[
+		{
+			"TestNumber": "1",
+			"Login": "No",
+			"Filer": "Yes",
+			"CarInformation":
+			{
+				"Year": "2021",
+				"MakeModel": "Alto",
+				"Version": "VXR"
+			},
+			"RegistrationCity": "KPK"
+		}
+	],
+	
+	"OwnerShipTransfer": 
+	[	
+		{
+			"TestNumber": "1",
+			"Login": "No",
+			"Filer": "Yes",
+			"CarInformation":
+			{
+				"Year": "2021",
+				"MakeModel": "Alto",
+				"Version": "VXR"
+			},
+			"RegistrationCity": "KPK"
+		}
+	],
+	
+	"PartnerWorkshop": 
+	[
+		{
+			"TestNumber": "1",
+			"Login": "No",
+			"Location":
+			{
+				"City": "Lahore",
+				"CityArea": "Johar Town"
+			},	
+			"CarInformation":
+			{
+				"Year": "2021",
+				"MakeModel": "Alto",
+				"Version": "VXR"
+			},
+			"ServiceIssue": "Denting & painting",
+ 			"Message":"Other Repair Services Text System",
+			"Notes": "Need Services urgently in 2 weeks",
+			"VerifySummary":"No"	
+		}
+	]
+}

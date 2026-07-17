@@ -1,0 +1,201 @@
+{
+	"UsedCar": 
+	[			
+		{
+			"TestNumber": "1",
+			"Login": "Yes",
+			"SearchCar": "Honda City",
+			"City": "Lahore",
+			"CityArea": "",
+			"Model": "City",
+			"Version": "1.3 i-VTEC Prosmatec",
+			"MinPrice": "200000",
+			"MaxPrice": "5000000",
+			"MinYear": "2000",
+			"MaxYear": "2023",
+			"MinMileage": "10000",
+			"MaxMileage": "1000000",
+			"RegisteredIn": "Lahore",
+			"Transmission": "Automatic",
+			"Color": "Black",
+			"EngineType": "Petrol",
+			"MinCapacity": "400",
+			"MaxCapacity": "1500",
+			"Assembly": "Local",
+			"ModelCategory": "Family Cars",
+			"SellerType": "Individuals",
+			"AdProperties": "Picture ads only",
+			"Sort": "Price (High to Low)",
+			"SaveAds": "5",
+			"AlertTime": "Weekly",
+			"ReportAd": "Fake Ad"
+		},
+		
+		{
+			"TestNumber": "2",
+			"Login": "Yes",
+			"SearchCar": "Suzuki Alto",
+			"City": "Lahore",
+			"CityArea": "",
+			"MakeModel": "Alto",
+			"Version": "VXR",
+			"MinPrice": "",
+			"MaxPrice": "",
+			"MinYear": "",
+			"MaxYear": "",
+			"MinMileage": "",
+			"MaxMileage": "",
+			"RegisteredIn": "",
+			"Transmission": "",
+			"Color": "",
+			"EngineType": "",
+			"MinCapacity": "",
+			"MaxCapacity": "",
+			"Assembly": "",
+			"ModelCategory": "",
+			"SellerType": "",
+			"AdProperties": "",
+			"Sort": "Manufactured Year (New to Old)",
+			"SaveAds": "5",
+			"AlertTime": "Daily",
+			"ReportAd": ""
+		},
+		
+		{
+			"TestNumber": "3",
+			"Login": "Yes",
+			"SearchCar": "",
+			"City": "Islamabad",
+			"CityArea": "",
+			"MakeModel": "E Class",
+			"Version": "",
+			"MinPrice": "",
+			"MaxPrice": "",
+			"MinYear": "",
+			"MaxYear": "",
+			"MinMileage": "",
+			"MaxMileage": "",
+			"RegisteredIn": "",
+			"Transmission": "",
+			"Color": "",
+			"EngineType": "",
+			"MinCapacity": "",
+			"MaxCapacity": "",
+			"Assembly": "",
+			"ModelCategory": "",
+			"SellerType": "",
+			"AdProperties": "",
+			"Sort": "",
+			"SaveAds": "",
+			"AlertTime": "",
+			"ReportAd": ""
+		}
+	
+	],
+	
+	"UsedBike": 
+	[
+		{
+			"TestNumber": "1",
+			"Login": "Yes",
+			"SearchBike": "Honda CD 70",
+			"MakeModel": "CD 70",
+			"Keyword": "Honda CD 70",
+			"City": "Lahore",
+			"CityArea": "",
+			"MinPrice": "80000",
+			"MaxPrice": "10000000",
+			"MinYear": "2012",
+			"MaxYear": "2023",
+			"MinMileage": "1000",
+			"MaxMileage": "10000000",
+			"Stroke": "2-Stroke",
+			"SellerType": "Individuals",
+			"AdProperties": "Picture ads only",
+			"Sort": "Price (High to Low)",
+			"SaveAds": "4",
+			"AlertTime": "Weekly",
+			"ReportAd": "Fake Ad"
+		},
+		
+		{
+			"TestNumber": "2",
+			"Login": "Yes",
+			"SearchBike": "SP 70",
+			"MakeModel": "SP 70",
+			"Keyword": "SP 70",
+			"City": "Lahore",
+			"CityArea": "",
+			"MinPrice": "",
+			"MaxPrice": "",
+			"MinYear": "",
+			"MaxYear": "",
+			"MinMileage": "",
+			"MaxMileage": "",
+			"Stroke": "",
+			"SellerType": "",
+			"AdProperties": "",
+			"Sort": "",
+			"SaveAds": "",
+			"AlertTime": "",
+			"ReportAd": ""
+		}
+	],
+	
+	
+	"UsedAccessory": 
+	[
+		{
+			"TestNumber": "1",
+			"Login": "Yes",
+			"SearchAutoPart": "Tyres & Wheels other",
+			"Sort": "Price (High to Low)",
+			"SaveAds": "4",
+			"AlertTime": "Weekly",
+			"Keyword": "Tyres",
+			"City": "Lahore",
+			"CityArea": "",
+			"MinPrice": "1000",
+			"MaxPrice": "100000",
+			"ShopNow": "Buy Now Ads Only",
+			"MinYear": "2012",
+			"MaxYear": "2023",
+			"ReportAd": "Fake Ad"	
+		}
+	
+	],
+	
+	"NewCar": 
+	[
+		{
+			"TestNumber": "1",
+	 		"Login": "Yes",
+	 		"CarInformation":
+			{
+				"Make": "Toyota",
+	 			"Model": "Toyota Corolla",
+	 			"Version": "XLi VVTi"
+			},
+			"Location":
+			{
+				"City": "Lahore"
+			}
+		}
+	
+	],
+	
+	"NewBike": 
+	[
+	 	{
+			"TestNumber": "1",
+			"Login": "No",
+			"BikeInformation":
+		   {
+			   "Make": "Honda",
+				"Model": "Honda CD 70"
+		   }
+	 	}
+	
+	]
+		
+}

@@ -1,0 +1,20 @@
+{
+   "Comparisons":
+   [
+     {
+	      "TestNumber": "1",
+	      "Login": "Yes",
+	      "CompareInformation": 
+	      {
+	        "Model": "Cultus",
+	        "Version": "VXR"
+	      },
+	      
+	      "WithInformation": 
+	      {
+	        "Model": "Passo",
+	        "Version": "Moda S"
+	      }
+	  }  
+   ]
+}

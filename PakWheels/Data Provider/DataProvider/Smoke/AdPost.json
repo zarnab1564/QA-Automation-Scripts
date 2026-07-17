@@ -1,0 +1,87 @@
+{ 
+	"CarAdPost": 
+	[
+		{
+			"TestNumber": "1",
+			"Login": "Yes",
+			"NumberOfImages": "2",
+			"Location":
+			{
+				"City": "Lahore",
+				"CityArea": "Abid Market"
+			},
+			"CarInformation":
+			{
+				"Year": "2020",
+				"Make": "Suzuki",
+				"Model": "Wagon R",
+				"FuelType": "Petrol",
+				"Transmission": "Manual",
+				"Version": "VXL"
+			},		
+			"RegisteredIn": "Lahore",
+			"Color": "Black",
+			"Mileage": "1000",
+			"Price": "1500000",
+			"Suggestion":
+			{
+				"Description": "Test By Appium",
+				"NumberOfSuggestions": "2"
+			},
+			"AdditionalInfo":
+			{
+				"FuelType": "Petrol",
+				"Capacity": "660",	
+				"Transmission": "Manual",
+				"Assembly": "Imported",
+				"NumberOfFeatures": "3"
+			},		
+			"AllowWhatsApp": "Yes"
+		}
+	],
+	
+	"BikeAdPost": 
+	[
+		{
+			"TestNumber": "1",
+			"Login": "Yes",
+			"NumberOfImages": "2",
+			"Location":
+			{
+				"City": "Lahore",
+				"CityArea": "Abid Market"
+			},
+			"BikeInformation":
+			{
+				"Year": "2022",
+				"MakeModel": "CD 70"
+			},
+			"RegisteredIn": "Lahore",
+			"Price": "750000",
+			"Mileage": "1000",
+			"EngineType": "2-stroke",		
+			"Description": "Test By Appium",
+			"NumberOfFeatures": "3",
+			"AllowWhatsApp": "Yes"		
+		}
+	],
+	
+	"AccessoryAdPost": 
+	[
+		{
+			"TestNumber": "1",
+			"Login": "Yes",
+			"NumberOfImages": "2",
+			"Location":
+			{
+				"City": "Lahore",
+				"CityArea": "Abid Market"
+			},
+			"Category": "Amplifiers",
+			"Title": "Amplifiers",
+			"Price": "500",
+			"Description": "Test By Appium",
+			"AllowWhatsApp": "Yes"		 
+		}
+	]
+}

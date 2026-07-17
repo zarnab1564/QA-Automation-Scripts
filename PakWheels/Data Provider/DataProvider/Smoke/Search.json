@@ -1,0 +1,156 @@
+{
+	"UsedCar": 
+	[
+		{
+			"TestNumber": "1",
+			"Login": "Yes",
+			"SearchCar": "Honda City",	
+			"Location":
+			{
+				"City": "Lahore",
+				"CityArea": "Bahria Town"
+			},
+			"CarInformation":
+			{
+				"Model": "Wagon R",
+				"Version": "VXL"
+			},
+			"Price":
+			{
+				"MinPrice": "80000",
+				"MaxPrice": "10000000"
+			},
+			"Year":
+			{
+				"MinYear": "1998",
+				"MaxYear": "2024"
+			},
+			"Mileage":
+			{
+			
+				"MinMileage": "1000",
+				"MaxMileage": "10000000"
+			},
+			"RegisteredIn": "Lahore",
+			"Transmission": "Manual",
+			"Color": "White",
+			"EngineInformation":
+			{
+				"EngineType": "Petrol",
+				"Capacity":
+				{
+					"MinCapacity": "400",
+					"MaxCapacity": "1000"
+				},
+				"Assembly": "Local"
+			},	
+			"ModelCategory": "Small",
+			"SellerType": "Individuals",
+			"AdProperties": "Picture ads only",
+			"ReportAd": "Fake Ad",
+			"Sort": "Price (High to Low)",
+			"SaveAds": "2"
+
+		}
+	
+	],
+	
+	"UsedBike": 
+	[
+		{
+			"TestNumber": "1",
+			"Login": "Yes",
+			"MakeModel": "CD 70",
+			"Keyword": "Honda CD 70",
+			"Location":
+			{
+				"City": "Lahore"
+			},
+			"Price":
+			{
+				"MinPrice": "80000",
+				"MaxPrice": "10000000"
+			},
+			"Year":
+			{
+				"MinYear": "2012",
+				"MaxYear": "2023"
+			
+			},
+			"Mileage":
+			{
+				"MinMileage": "1000",
+				"MaxMileage": "10000000"
+			},	
+			"Stroke": "2-Stroke",
+			"SellerType": "Individuals",
+			"AdProperties": "Picture ads only",
+			"ReportAd": "Fake Ad",
+			"Sort": "Price (High to Low)",
+			"SaveAds": "2"
+
+		}
+	],
+	
+	
+	"UsedAccessory": 
+	[
+		{
+			"TestNumber": "1",
+			"Login": "Yes",
+			"Category": "Engine Oil",
+			"Brand":"ABRO",
+			"Location":
+			{
+				"City": "Lahore"
+			},
+			"Price":
+			{
+				"MinPrice": "100",
+				"MaxPrice": "100000"
+			},
+			"ShopNow": "Sold By PakWheels",
+			"ReportAd": "Fake Ad",
+			"Sort": "Price (High to Low)",
+			"SaveAds": "2",
+			"CarInfo":
+			{
+				"Make":"Suzuki",
+				"Model": "Alto",
+				"Version": "VXR",
+				"ModelYear":"2022"
+			}
+		}	
+	],
+	
+	"NewCar": 
+	[
+		{
+			"TestNumber": "1",
+	 		"Login": "Yes",
+	 		"CarInformation":
+			{
+				"Make": "Toyota",
+	 			"Model": "Toyota Corolla",
+	 			"Version": "XLi VVTi"
+			},
+			"Location":
+			{
+				"City": "Lahore"
+			}
+		}
+	],
+	
+	"NewBike": 
+	[
+	 	{
+	 		"TestNumber": "1",
+	 		"Login": "No",
+	 		"BikeInformation":
+			{
+				"Make": "Honda",
+	 			"Model": "Honda CD 70"
+			}
+	 	}	
+	]	
+}
