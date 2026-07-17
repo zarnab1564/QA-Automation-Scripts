@@ -1,6 +1,6 @@
 # 🤖 QA Automation Scripts
 
-Automation test scripts by **Zarnab** QA Engineer with 3+ years of experience.
+Automation test scripts by **Zarnab** QA Engineer with 4+ years of experience.
 
 ## 📁 Projects
 
